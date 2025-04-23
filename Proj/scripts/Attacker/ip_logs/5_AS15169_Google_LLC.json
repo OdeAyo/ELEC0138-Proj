@@ -1,0 +1,8 @@
+{
+  "src_ip": "192.168.1.36",
+  "src_port": 49155,
+  "dst_ip": "142.250.187.206",
+  "dst_port": 443,
+  "protocol": "TCP",
+  "org": "AS15169 Google LLC"
+}
